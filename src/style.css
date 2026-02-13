@@ -1,0 +1,15 @@
+:root {
+  color-scheme: dark;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  background: #111216;
+  color: #f5f7fb;
+}
+
+#app {
+  min-height: 100vh;
+}
