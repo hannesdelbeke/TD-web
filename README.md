@@ -1,6 +1,10 @@
 # TD-web
 
-Modular browser-first tower defense game, playable instantly on GitHub Pages.
+A tower defense game in your browser: https://hannesdelbeke.github.io/TD-web/  
+
+Made with Codex, no manual coding.
+<img width="1217" height="505" alt="image" src="https://github.com/user-attachments/assets/28051e3a-8a69-4792-985c-3d44da48a380" />
+
 
 ## Docs
 - `docs/PORTAL_VISION.md` - end-state design for multi-dimension portal battles.
